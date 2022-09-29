@@ -259,7 +259,7 @@
 .box .titulo, .box-area .titulo {
   font-size: 30px;
   font-weight: 900;
-  text-decoration-line: underline;
+  /* text-decoration-line: underline; */
   margin-top: 10px;
   margin-bottom: 30px;
 }
@@ -307,9 +307,9 @@
 /* Página area restrita */
 
 .titulo-big-area {
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 900;
-  text-decoration-line: underline;
+  /* text-decoration-line: underline; */
   margin-top: 10px;
   margin-bottom: 30px;
 }
@@ -594,7 +594,7 @@
   margin-top: 10px;
   margin-bottom: 30px;
   color: white;
-  text-decoration: underline;
+  /* text-decoration: underline; */ 
 
 }
 
