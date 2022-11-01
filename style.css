@@ -708,3 +708,10 @@
 .letracolapse1 {
   color: white;
 }
+
+/*Javascript Aviso */
+
+
+@media only screen and (max-width: 1px) {
+  .desktop-hide { display: none !important; }
+}
