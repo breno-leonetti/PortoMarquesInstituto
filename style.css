@@ -421,7 +421,7 @@
   display: flex;
   flex-wrap: wrap;
   margin-top: 70px;
-  margin-bottom: 50px;
+  margin-bottom: 250px;
 }
 
 @media screen and (max-width: 600px) {
